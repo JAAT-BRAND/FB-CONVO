@@ -5,9 +5,9 @@
 ## <h3 align="center">
 # USAGE
 ```
-rm rf-CONVO
-git clone https://github.com/JAAT-BRAND/CONVO
-cd CONVO
+rm rf-FB-CONVO
+git clone https://github.com/JAAT-BRAND/FB-CONVO
+cd FB-CONVO
 python Julmi.py
 ```
 APKO ES TOOL KA PASSWORD CHAIYE TO CONTACT KRO ADMIN SE
